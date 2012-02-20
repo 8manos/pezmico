@@ -242,6 +242,7 @@ td { vertical-align: top; }
 	nav {
 		background-color:#000;
 		padding:5px 0;
+		text-decoration:none;
 	}
 	
 		nav a {
@@ -251,6 +252,10 @@ td { vertical-align: top; }
 		nav a:link {
 			color:#fff;
 		}
+
+		nav a:hover {
+		text-decoration:none;	
+		} 
 
 	h1 {
 		margin-top:125px;
