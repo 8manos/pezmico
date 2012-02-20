@@ -4,8 +4,8 @@
 
   $(document).ready(function(){
     $("a[rel^='prettyPhoto']").prettyPhoto({
-		default_width: 800,
-		default_height: "95%",
+		default_width: "90%",
+		default_height: "90%",
 		social_tools: ""
     });
   });
