@@ -244,17 +244,27 @@ td { vertical-align: top; }
 		padding:5px 0;
 	}
 	
-		nav a ,
+		nav a {
+		text-decoration:none;	
+		} ,
+		
 		nav a:link {
 			color:#fff;
 		}
 
 	h1 {
-		font-family: 'Princess Sofia', cursive;
+		font-family: 'Righteous', cursive;
 		color:green;
 		text-shadow:2px 2px 2px #000;
 	}
 
+	h3 {
+		font-family: 'Wire One', sans-serif;
+	}
+
+	h5 {
+		font-family: 'Voltaire', sans-serif;
+	}
 
 
 
