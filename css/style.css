@@ -220,7 +220,7 @@ td { vertical-align: top; }
 
 	body {
 		text-align:center;
-		background-image:url('http://placehold.it/700x500');
+		background-image:url("images/erizocrop.JPG");
 		background-position:0 0;
 		background-repeat:no-repeat;
 		-moz-background-size:cover;
